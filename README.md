@@ -54,7 +54,7 @@ Welcome to the **Machine Learning Project Repository**! This repo contains a col
 Feel free to contribute to this repository by improving existing models, adding new datasets, or optimizing algorithms. Create a pull request, and let's build an amazing ML repo together! 🚀
 
 ## 📬 Contact
-If you have any queries or suggestions, reach out via GitHub issues or email me at [your-email@example.com](hanumeshgupta2907@gmail.com).
+If you have any queries or suggestions, reach out via GitHub issues or email me at [hanumeshgupta2907@gmail.com].
 
 
 
