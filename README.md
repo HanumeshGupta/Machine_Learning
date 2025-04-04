@@ -38,7 +38,7 @@ Welcome to the **Machine Learning Project Repository**! This repo contains a col
 ## ⚙️ How to Use
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/machine-learning-projects.git
+   git clone https://github.com/HanumeshGupta/Machine_Learning.git
    ```
 2. Navigate to the project directory of interest.
 3. Install dependencies (if needed):
